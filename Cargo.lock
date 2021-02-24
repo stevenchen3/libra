@@ -6839,9 +6839,9 @@ dependencies = [
 
 [[package]]
 name = "textwrap"
-version = "0.13.1"
+version = "0.13.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7aca9e798437265144ddacce09343df0b3413a0aef54b1e212e640e472118b80"
+checksum = "cd05616119e612a8041ef58f2b578906cc2531a6069047ae092cfb86a325d835"
 dependencies = [
  "smawk",
  "unicode-width",
@@ -7189,7 +7189,7 @@ dependencies = [
  "serde_yaml",
  "structopt 0.3.21",
  "tempfile",
- "textwrap 0.13.1",
+ "textwrap 0.13.4",
  "which 4.0.2",
 ]
 
